@@ -1,0 +1,5 @@
+<resources>
+    <string name="tvMessage">Hello World</string>
+    <string name="tvMessage2">Adios mundo</string>
+
+</resources>
